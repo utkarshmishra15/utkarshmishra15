@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Mishra</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Front End Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshmishra15&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshmishra15" /> </p>
 
@@ -12,12 +12,12 @@
 - 📫 How to reach me **utkarshmishra1510@gmail.com**
 - ### Summary :
 
-A passionate Full Stack Web Developer, who loves to create slick and attractive websites. Proficient in Web Development, HTML, CSS, JavaScript, React Js + Redux, Next Js, Mongo DB, Express JS, Node Js. Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further opportunity to enhance my skills as a Full-Stack Web Developer.
+A passionate Front End Web Developer, who loves to create slick and attractive websites. Proficient in Web Development, HTML, CSS, JavaScript, React JS, and Chakra UI. Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. I am looking for further opportunities to enhance my skills as a Front End Web Developer.
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/utkarshmishra1510/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarshmishra1510/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/utkarshmishra1510/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/utkarshmishra1510/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
